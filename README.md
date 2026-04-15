@@ -1,4 +1,4 @@
-# 记友（RecordBot）
+# 超级打卡（RecordBot）
 
 一款面向 **iPhone / iPad** 的本地优先打卡与健康指标记录应用。数据默认保存在设备本地，支持任务提醒、多用户指标对比、趋势图与数据导入导出。
 
@@ -99,7 +99,7 @@ RecordBot/
 
 ## 版本与维护
 
-- **显示名称**：记友（以 Xcode / Info 中 `CFBundleDisplayName` 为准）  
+- **显示名称**：超级打卡（以 Xcode / Info 中 `CFBundleDisplayName` 为准）  
 - 版本号以 **Xcode → Target → General → Version / Build** 为准  
 
 欢迎通过 Issue / PR 反馈问题与改进建议（若仓库开启协作）。
